@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "やさしいキスをして",
+  "base_artist": "DREAMS COME TRUE",
+  "createdAt": "2026-03-08T13:06:28.413242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やさしいキスをして",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/01_やさしいキスをして_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "やさしいキスをして",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/02_やさしいキスをして_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "やさしいキスをして – DOSCO prime Version –",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/03_やさしいキスをして_–_DOSCO_prime_Version_–_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "やさしいキスをして",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/04_やさしいキスをして_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "やさしいキスをして - DOSCO prime Version",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/05_やさしいキスをして_-_DOSCO_prime_Version_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "やさしいキスをして",
+      "artist": "徳永英明",
+      "has_synced": false,
+      "path": "select/06_やさしいキスをして_徳永英明.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "やさしいキスをして",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/07_やさしいキスをして_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "やさしいキスをして",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": false,
+      "path": "select/08_やさしいキスをして_Hideaki_Tokunaga.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "やさしいキスをして - Yasashii Kiss O Shite",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/09_やさしいキスをして_-_Yasashii_Kiss_O_Shite_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "やさしいキスをして",
+      "artist": "事務員G",
+      "has_synced": true,
+      "path": "select/10_やさしいキスをして_事務員G.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "やさしいキスをして",
+      "artist": "Dreams Come True",
+      "has_synced": false,
+      "path": "select/11_やさしいキスをして_Dreams_Come_True.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "やさしいキスをして (Music Box Ver.)",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/12_やさしいキスをして_(Music_Box_Ver.)_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "やさしいキスをして",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/13_やさしいキスをして_Ms.OOJA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やさしいキスをして",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_やさしいキスをして_DREAMS_COME_TRUE.txt"
+    }
+  ]
+}
